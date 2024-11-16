@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Luis1745&theme=matrix&column=4&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Luis1745&theme=matrix&column=4&row=1&margin-w=10&margin-h=50&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
