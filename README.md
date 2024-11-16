@@ -85,9 +85,15 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Luis1745&theme=matrix&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xybDhocXYyZHd3eXJwaGFmYmVpNzgzYXd5enh6Y2I0MWdsOGRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif"  />
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xybDhocXYyZHd3eXJwaGFmYmVpNzgzYXd5enh6Y2I0MWdsOGRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif"  />
+</div>
 
 ###
 
